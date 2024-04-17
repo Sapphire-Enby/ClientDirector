@@ -35,7 +35,7 @@ class Book:
                 return True
     def writeHeader(self):
         self.act()
-        for col, cellHeader in enumerate(["Name","Address","Amount","FolderPath"],start=1):  # Start from column 1
+        for col, cellHeader in enumerate(["name", "address", "phone", "mail", "folder"],start=1):  # Start from column 1
             self.s.cell(row=1, column=col, value=cellHeader)
 
     def main(self):

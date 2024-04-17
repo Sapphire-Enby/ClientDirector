@@ -1,0 +1,4 @@
+name: Richard Scott
+address: 47695 Ashley Crescent Schneiderfurt, ND 04268
+phone: +1-503-828-6304
+mail: lynn79@gmail.com
